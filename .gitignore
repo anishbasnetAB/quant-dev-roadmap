@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# build artifacts
+build/
+out/
+dist/
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.log
+
+# tools
+.cache/
+ccache/
+.ipynb_checkpoints/
